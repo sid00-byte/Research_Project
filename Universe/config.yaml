@@ -1,0 +1,10 @@
+# Alpha Vantage API key
+api_key: "MLFCMDTXKS0PIFYF"
+
+# Paths
+raw_prices_path: "./Universe/raw/prices/"
+log_file: "./Universe/logs/fetch_log.txt"
+
+# Fetch settings
+retry_attempts: 3
+sleep_seconds: 20   # To respect free-tier 5 calls/min

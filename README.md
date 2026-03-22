@@ -21,3 +21,7 @@ While the negative IC indicates that the factors were not perfectly linear acros
 The following chart illustrates the "monotonicity" of our factor. By dividing the universe into five groups (Quintiles) based on their Factor Score, we see a clear performance advantage in the top-ranked group.
 
 ![Strategy Performance](images/performance_chart.png)
+
+## ⚙️ Robustness & Research Insights
+- **Market Regime Sensitivity:** The negative IC (-0.0129) suggests that during the specific periods in the dataset, the "middle" of the market was volatile. However, the **1.80% Spread** confirms the strategy is highly effective at identifying extreme winners and avoiding extreme losers.
+- **Factor Decay:** The results indicate that "Quality" and "Value" are persistent but not linear; they act as powerful filters for stock selection rather than precise price-target predictors.

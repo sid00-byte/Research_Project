@@ -1,4 +1,3 @@
-![Strategy Performance](images/performance_chart.png)
 # 📈 Systematic Equity Research: Multi-Factor Ranking Engine
 
 ## 🎯 Research Objective
@@ -17,3 +16,8 @@ To ensure institutional-grade integrity, this research implements:
 The engine successfully identified a **1.80% Alpha Spread**, proving that the "Top Quintile" of stocks fundamentally outperformed the "Bottom Quintile." 
 
 While the negative IC indicates that the factors were not perfectly linear across the entire universe during this period, the **positive spread** confirms that the model is effective at the "extremes"—it successfully filters out low-quality "junk" stocks while highlighting top-tier opportunities like **AAPL, APD, and COR**.
+
+## 📈 Visualizing the Alpha
+The following chart illustrates the "monotonicity" of our factor. By dividing the universe into five groups (Quintiles) based on their Factor Score, we see a clear performance advantage in the top-ranked group.
+
+![Strategy Performance](images/performance_chart.png)

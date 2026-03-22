@@ -1,4 +1,4 @@
-![Strategy Performance](performance_chart.png)
+![Strategy Performance](images/performance_chart.png)
 # 📈 Systematic Equity Research: Multi-Factor Ranking Engine
 
 ## 🎯 Research Objective
